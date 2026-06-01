@@ -54,9 +54,9 @@ Cleaned and transformed raw datasets using Excel and SQL.
 
 ## Contact
 
-📧 Email: your-email@example.com
+📧 Email: lucifer7860687singh@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/ankit-singh-a39037238?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## Fun Fact
 
